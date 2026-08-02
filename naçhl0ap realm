@@ -120,7 +120,7 @@ end
 -- Kho dữ liệu Asset ID của Team k00pkidd770
 local idSky         = "132408240384029"
 local greenDecalID  = "57029310" 
-local welcomeID     = "135316896721166" 
+local welcomeID     = "132408240384029" 
 local idTham        = "290658294" 
 
 local legTextureID  = "132408240384029" 
